@@ -52,4 +52,3 @@
 - [Constructing the mobile transit ticket](https://uxdesign.cc/constructing-the-mobile-transit-ticket-8539e89ca390)
 - [Fostering focus for small screens](https://medium.com/dropbox-design/fostering-focus-for-small-screens-34a9f338668c)
 - [Designing at TransferWise: a case study.](https://medium.com/transferwise-ideas/designing-at-transferwise-a-case-study-e788af460dbc)
-- [Fostering focus for small screens](https://medium.com/dropbox-design/fostering-focus-for-small-screens-34a9f338668c)
